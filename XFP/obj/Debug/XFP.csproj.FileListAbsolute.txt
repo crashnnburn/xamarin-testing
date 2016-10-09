@@ -1,0 +1,14 @@
+c:\users\eduardo\documents\visual studio 2015\Projects\XFP\XFP\XFP\bin\Debug\XFP.dll
+c:\users\eduardo\documents\visual studio 2015\Projects\XFP\XFP\XFP\bin\Debug\XFP.pdb
+c:\users\eduardo\documents\visual studio 2015\Projects\XFP\XFP\XFP\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\eduardo\documents\visual studio 2015\Projects\XFP\XFP\XFP\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\eduardo\documents\visual studio 2015\Projects\XFP\XFP\XFP\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\eduardo\documents\visual studio 2015\Projects\XFP\XFP\XFP\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\eduardo\documents\visual studio 2015\Projects\XFP\XFP\XFP\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\eduardo\documents\visual studio 2015\Projects\XFP\XFP\XFP\obj\Debug\XFP.csprojResolveAssemblyReference.cache
+c:\users\eduardo\documents\visual studio 2015\Projects\XFP\XFP\XFP\obj\Debug\XFP.dll
+c:\users\eduardo\documents\visual studio 2015\Projects\XFP\XFP\XFP\obj\Debug\XFP.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\XFP\XFP\XFP\obj\Debug\XFP.dll.mdb
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\XFP\XFP\XFP\bin\Debug\XFP.dll.mdb
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\XFP\XFP\XFP\obj\Debug\XFP.dll.mdb
+C:\Users\Eduardo\Documents\Visual Studio 2015\Projects\XFP\XFP\XFP\bin\Debug\XFP.dll.mdb
